@@ -1,0 +1,21 @@
+
+    .wrapper h1 {
+        font-size: 50px;
+        text-align: center;
+}
+
+.icons {
+    position: relative;
+    text-align: center;
+    font-size: 100px;
+}
+
+.bx.bx-check-circle {
+    color: rgb(63, 177, 63);
+}
+
+
+#p1{
+    color: red;
+    text-align: center;
+}
